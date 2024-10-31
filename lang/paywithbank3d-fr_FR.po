@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayWithBank3D\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-27 19:35+0000\n"
+"PO-Revision-Date: 2020-02-27 19:39+0000\n"
+"Last-Translator: infinitypaul <infinitypaul@live.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid "Accept Payment With PayWithBank3D"
+msgstr "Acceptez le paiement avec PayWithBank3D"
+
+#: includes/admin/columns.php:10
+msgid "Date"
+msgstr ""
+
+#: includes/notice.php:8
+msgid ""
+"edit.php?post_type=paywithbank3d&page=settings.php\">Click Here to Switch To "
+"Live Mode</a>"
+msgstr ""
+
+#. Author of the plugin
+msgid "Edward Paul"
+msgstr ""
+
+#: includes/admin/page/addupdate.php:16
+msgid "Email Receipt Settings"
+msgstr ""
+
+#: includes/admin/page/addupdate.php:15
+msgid "Form Settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://medium.com/@infinitypaul"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://paywithbank3d.com"
+msgstr ""
+
+#: includes/admin/settings.php:59
+msgid "Merchant Live Key"
+msgstr ""
+
+#: includes/admin/settings.php:64
+msgid "Merchant Live Secret Key"
+msgstr ""
+
+#: includes/admin/settings.php:51
+msgid "Merchant Test Key"
+msgstr ""
+
+#: includes/admin/settings.php:55
+msgid "Merchant Test Secret Key"
+msgstr ""
+
+#: includes/admin/settings.php:44
+msgid "Mode"
+msgstr ""
+
+#: includes/admin/page/addupdate.php:14
+msgid "Note"
+msgstr ""
+
+#: includes/admin/page/addupdate.php:12
+msgid "Paste shortcode on preferred page"
+msgstr ""
+
+#: includes/admin/columns.php:9
+msgid "Payment Count"
+msgstr ""
+
+#. Name of the plugin
+msgid "PayWithBank3D"
+msgstr ""
+
+#: includes/admin/settings.php:88
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/columns.php:8
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/columns.php:7
+msgid "Title"
+msgstr ""
+
+#: includes/admin/settings.php:68
+msgid "Update Settings"
+msgstr ""
+
+#: process/save-options.php:5
+msgid "You are not allowed to be on this page "
+msgstr ""
+
+#: includes/activate.php:5
+msgid "You Must Update Wordpress To Use This Plugin"
+msgstr ""
